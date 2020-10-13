@@ -77,7 +77,8 @@ Rating  | Importance  |
 * The website follows many design conventions and standards, which makes it intuitive for the user. For example, the search bar is located on the top right of the page (consistent with the convention that search bars are usually shown on the top right or middle), with a text box and a magnifying class icon (universally used for search icon).
 
 * There are some minor issues that can potentially make the user confused. For example, in the "Schedule Your Pickup" page, the menu on the right has collapsing and expanding icons. They are against user experience convention: the arrow should be pointing down when the list is collapsed and up when the list is expanded.
-<img scr="lapl-screenshot-uh4-inconsistency.png" alt="LAPL screenshot - heuristic 4 - inconsistency with convention" width="80%">
+<img src="lapl-screenshot-uh4-inconsistency.png" alt="LAPL screenshot - heuristic 4 - inconsistency with convention" width="80%">
+
 
 **Recommendation:**
 * Some details should be redesigned to make the user experience more smooth and intuitive. As little as the direction of arrows can change how the user thinks and behaves.
@@ -87,7 +88,7 @@ Rating  | Importance  |
 
 **Rating: 3**
 * There is lacking error prevention for the user logging in. For example, when the user tries to put more digits in the text box intended for only 4 digits (of phone number), there is no error message stopping the user. Therefore, the user may waste time on figuring out what has been wrong with out the system's warning.
-<img scr="lapl-screenshot-uh5-noerrorprevention.png" alt="LAPL screenshot - heuristic 5 - lacking of error prevention" width="80%">
+<img scr="lapl-screenshot-uh5-noerrorprevention.png" alt="LAPL screenshot - heuristic 5 - lacking of error prevention">
 
 **Recommendation:**
 * Add error prevention to prevent users from going to the next step while inputting the wrong information and spending time figuring out their mistake.
@@ -174,56 +175,76 @@ I will use severity ratings to aid the heuristic evaluation.
 >The system should always keep users informed about what is going on, through appropriate feedback within reasonable time.
 
 **Rating: 2**
-* 
+* The LAPL APP is quite responsive from the point of view of a user. When a page loads, there would be a loading icon in the middle of the screen to indicate that something is happening.
+
+* The loading time is a bit long compare to other APPs - this is related to the server, internet connection, etc.
 
 **Recommendation:**
-* 
+* It would be better if the loading time is shorter - the shorter the better - the more responsive, the more likely a user is going to stick on the APP!
 
 
 #### Usability Heuristic #2: Match Between the System and the Real World
 >The system should speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms. Follow real-world conventions, making information appear in a natural and logical order.
 
-**Rating: 2**
+**Rating: 1**
+* The icons are clear since they illustrate the meaning of quite well. In this way, the user can be well informed by the icon and the description down below what page they are clicking into.
+<img src="lapl-app-screenshot-uh2-familiarillustrations.png" alt="LAPL APP screenshot - heuristic 2 - familiar illustrations to users" width="40%">
 
 **Recommendation:**
+* The presentation can be more dynamic - the real world often present information dynamically. For example, there can be more layers of information, which is consistent with the user's understanding of systems.
+
 
 #### Usability Heuristic #3: User control and freedom
 >Users often choose system functions by mistake and will need a clearly marked "emergency exit" to leave the unwanted state without having to go through an extended dialogue. Support undo and redo.
 
-**Rating: 2**
-* 
+**Rating: 3**
+* Users, for the most part, can easily go back to the previous page. However, in the case when a page is loading, the user is stuck on the page, unable to go back or perform any action if they want to "exit" the situation. This is problematic when the page is taking a long time to load.
+<img src="lapl-app-screenshot-uh3-loading page.png" alt="LAPL APP screenshot - heuristic 3 - unable to go back from the loading page" width="40%">
 
 **Recommendation:**
+* Allowing the user to leave the page and go back when a page is loading is an essential feature that needs to be fixed quickly for this APP. Make sure that the user always have a way out (without having to restart the APP)!
 
 
 #### Usability Heuristic #4: Consistency and standards
 >Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform conventions.
 
 **Rating: 2**
+* In general, the APP is simple that it provides icons that the user can click on. However, upon clicking, some icons will redirect the user to a web link, while others results in a page in the APP.
 
 **Recommendation:**
+* It would be better to indicate whether a link will direct the user to a page built in the APP or a webpage before the user clicks on it. Also, the APP can be more consistent by building more built-in functions in the APP.
 
 
 #### Usability Heuristic #5: Error prevention
 >Even better than good error messages is a careful design which prevents a problem from occurring in the first place. Either eliminate error-prone conditions or check for them and present users with a confirmation option before they commit to the action.
 
 **Rating: 2**
+* There is no error prevention in the APP. When the user is trying to put in log-in information, there is no warning until the user hits "confirm."
 
 **Recommendation:**
+* Put in some error prevention for areas where user input is needed. For example, the text box requiring a 4-digit pin can restrict its input to 4 digits.
+
 
 #### Usability Heuristic #6: Recognition rather than recall
 >Minimize the user's memory load by making objects, actions, and options visible. The user should not have to remember information from one part of the dialogue to another. Instructions for use of the system should be visible or easily retrievable whenever appropriate.
 
 **Rating: 2**
+* When the user enters an inner page, there appears to be a "home" icon in the tab bar, allowing the user to go back to the previous page.
+
+* There lacks a menu bar that exist across all pages for which the user can easily check which page they are currently on and where they came from.
 
 **Recommendation:**
+* A menu bar can be added on the left of the screen, which provides an overview of which place, or which sub-page the user is on.
+
 
 #### Usability Heuristic #7: Flexibility and efficiency of use
 >Accelerators — unseen by the novice user — may often speed up the interaction for the expert user such that the system can cater to both inexperienced and experienced users. Allow users to tailor frequent actions.
 
 **Rating: 2**
+* There is no design of accelerators such that inexperienced or experienced users are faced with the same functionalities.
 
 **Recommendation:**
+* Consider adding function that can speed up the interaction for the expert user. However, there are not many functions in the mobile APP, so even without accelerators or shortcuts, the functions can be accessed quite directly.
 
 
 #### Usability Heuristic #8: Aesthetic and minimalist design

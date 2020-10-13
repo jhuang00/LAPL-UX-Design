@@ -67,22 +67,31 @@ Rating  | Importance  |
 <img src="lapl-screenshot-uh3-browsertabs.png" alt="LAPL screenshot - heuristic 3 - changing between tabs" width="80%">
 
 **Recommendation:**
+* Consider letting the menu bar with the drop-down list be consistently fixed on every page, so that users can easily go to the pages they have been to before.
 
 
 #### Usability Heuristic #4: Consistency and standards
 >Users should not have to wonder whether different words, situations, or actions mean the same thing. Follow platform conventions.
 
 **Rating: 2**
+* The website follows many design conventions and standards, which makes it intuitive for the user. For example, the search bar is located on the top right of the page (consistent with the convention that search bars are usually shown on the top right or middle), with a text box and a magnifying class icon (universally used for search icon).
+
+* There are some minor issues that can potentially make the user confused. For example, in the "Schedule Your Pickup" page, the menu on the right has collapsing and expanding icons. They are against user experience convention: the arrow should be pointing down when the list is collapsed and up when the list is expanded.
+<img scr="lapl-screenshot-uh4-inconsistency.png" alt="LAPL screenshot - heuristic 4 - inconsistency with convention" width="80%">
 
 **Recommendation:**
-
+* Some details should be redesigned to make the user experience more smooth and intuitive. As little as the direction of arrows can change how the user thinks and behaves.
 
 #### Usability Heuristic #5: Error prevention
 >Even better than good error messages is a careful design which prevents a problem from occurring in the first place. Either eliminate error-prone conditions or check for them and present users with a confirmation option before they commit to the action.
 
-**Rating: 2**
+**Rating: 3**
+* There is lacking error prevention for the user logging in. For example, when the user tries to put more digits in the text box intended for only 4 digits (of phone number), there is no error message stopping the user. Therefore, the user may waste time on figuring out what has been wrong with out the system's warning.
+<img scr="lapl-screenshot-uh5-noerrorprevention.png" alt="LAPL screenshot - heuristic 4 - lacking of error prevention" width="80%">
 
 **Recommendation:**
+* Add error prevention to prevent users from going to the next step while inputting the wrong information and spending time figuring out their mistake.
+
 
 #### Usability Heuristic #6: Recognition rather than recall
 >Minimize the user's memory load by making objects, actions, and options visible. The user should not have to remember information from one part of the dialogue to another. Instructions for use of the system should be visible or easily retrievable whenever appropriate.
@@ -142,13 +151,7 @@ at the palm of your hand.
 
 The LAPL APP should be designed for all its library patrons as potential users.
 
-![LAPL APP homepage screenshot](lapl-app-screenshot-home.png) 
-trial:
-<figure>
-<img src="lapl-screenshot-uh1-icontoosmall.png" alt="LAPL screenshot - heuristic 1 - low visability" width="30%">
-  <img src="lapl-screenshot-uh1-icontoosmall.png" alt="LAPL screenshot - heuristic 1 - low visability" width="30%">
- <figcaption>The filter bar on the right is too compact</figcaption>
-  </figure>
+<img src="lapl-app-screenshot-home.png" alt="LAPL APP homepage screenshot" width="50%">
 
 In the heuristic evaluation, I will use Jakob Nielsen's 10 general principles for interaction design for this analysis.
 
@@ -162,8 +165,7 @@ I will use severity ratings to aid the heuristic evaluation.
 * 
 
 **Recommendation:**
-
-
+* 
 
 
 #### Usability Heuristic #2: Match Between the System and the Real World
@@ -228,8 +230,11 @@ I will use severity ratings to aid the heuristic evaluation.
 >Error messages should be expressed in plain language (no codes), precisely indicate the problem, and constructively suggest a solution.
 
 **Rating: 1**
+* In general, messages are clear and concise. They inform the user what the problem is.
+<img src="lapl-app-screenshot-uh9-message.png" alt="LAPL APP screenshot - heuristic 19 - error message" width="40%">
 
 **Recommendation:**
+* Users may be more familiar to messages displayed in the middle of the screen on a mobile phone. However, messages displayed at the bottom is also clear and distinct.
 
 
 #### Usability Heuristic #10: Help and documentation
@@ -239,7 +244,7 @@ I will use severity ratings to aid the heuristic evaluation.
 * There is no help and documentation within the APP for the APP. Even though the APP does not have many functions, it is still necessary to provide guidance or some document for the user to refer to.
 
 * The closest thing to help and documentation provided on this APP is an icon on the tab bar. If the user clicks on it, it provides the options "Call Us" and "Email Us." However, the contact information is not specific to inquiries of the LAPL APP itself, but it is rather for providing information for LAPL in general.
-<img src="lapl-app-screenshot-uh10-contactus.png" alt="LAPL APP screenshot - heuristic 10 - contact us" width="50%">
+<img src="lapl-app-screenshot-uh10-contactus.png" alt="LAPL APP screenshot - heuristic 10 - contact us" width="40%">
 
 **Recommendation:**
 

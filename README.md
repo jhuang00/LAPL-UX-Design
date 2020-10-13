@@ -1,5 +1,5 @@
 # Heuristic Evaluation
-## Digital Humanities 150 Assignment 1 - Jane Huang
+## Digital Humanities 150 Assignment 1 — Jane Huang
 
 # Feeding the Mind
 
@@ -11,10 +11,10 @@ The Los Angeles Public Library (LAPL) is a public library system that serves res
 
 The LAPL website needs to be accessible and easy to understand for all users, including middle-aged women, the users we are focusing on — middle-aged women.
 
-![LAPL website homepage screenshot](lapl-home-screenshot.png) 
+![LAPL website homepage screenshot](lapl-screenshot-home.png) 
 
 In the heuristic evaluation, I will use Jakob Nielsen's 10 general principles for interaction design for this analysis.
-I will use severity ratings to perform the heuristic evaluation. 
+I will use severity ratings to aid the heuristic evaluation. 
 
 ### Severity Ratings in Heuristic Evaluation (from [Nielson Norman Group](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/))
 The severity of usability problems can be rated from a 1 to 3 scale as follows:
@@ -27,6 +27,14 @@ Rating  | Importance  |
 
 #### Usability Heuristic #1: Visibility of System Status
 >The system should always keep users informed about what is going on, through appropriate feedback within reasonable time.
+
+**Rating: 2**
+* The website has appropriate and prompt response when the user hovers over something that is clickable. For example, the menu would expand when the user hovers over a tab. A tab would change color to show its responsiveness. A link would be underlined to show it is clickable.
+* However, the user needs to be have experience with web products, and have good vision in order to . For some functions, the website has low visibility of the system status since the icon is too small, so it is difficult for the user to spot the possible actions they can perform.
+<img src="lapl-screenshot-uh1-icontoosmall.png" alt="LAPL screenshot - heuristic 1 - low visability" width="300">
+
+
+**Recommendation:**
 
 
 

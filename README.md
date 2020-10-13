@@ -88,7 +88,7 @@ Rating  | Importance  |
 
 **Rating: 3**
 * There is lacking error prevention for the user logging in. For example, when the user tries to put more digits in the text box intended for only 4 digits (of phone number), there is no error message stopping the user. Therefore, the user may waste time on figuring out what has been wrong with out the system's warning.
-<img scr="lapl-screenshot-uh5-noerrorprevention.png" alt="LAPL screenshot - heuristic 5 - lacking of error prevention">
+<img src="lapl-screenshot-uh5-noerrorprevention.png" alt="LAPL screenshot - heuristic 5 - lacking of error prevention" width="80%">
 
 **Recommendation:**
 * Add error prevention to prevent users from going to the next step while inputting the wrong information and spending time figuring out their mistake.
@@ -264,7 +264,7 @@ I will use severity ratings to aid the heuristic evaluation.
 
 **Rating: 1**
 * In general, messages are clear and concise. They inform the user what the problem is.
-<img src="lapl-app-screenshot-uh9-message.png" alt="LAPL APP screenshot - heuristic 19 - error message" width="40%">
+<img src="lapl-app-screenshot-uh9-message.png" alt="LAPL APP screenshot - heuristic 9 - error message" width="40%">
 
 **Recommendation:**
 * Users may be more familiar to messages displayed in the middle of the screen on a mobile phone. However, messages displayed at the bottom is also clear and distinct.

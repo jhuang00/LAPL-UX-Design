@@ -9,11 +9,12 @@ With the COVID-19 pendemic, we have entered a period of time when people are fac
 
 The Los Angeles Public Library (LAPL) is a public library system that serves residents in LA, serving the largest population among all publicly funded library systems in the United States of over 18 million residents. Holding more than 6 million volumes, the LAPL system provides books, zines, periodicals, computer access, and audiovisual materials freely to the residents. The LAPL website contains information digitally that can be accessed and viewed by the users.
 
-The LAPL website needs to be accessible and easy to understand for all users, including middle-aged women, the users we are focusing on — middle-aged women.
+The LAPL website needs to be accessible and easy to understand for all users, including the users we are focusing on — middle-aged women.
 
 ![LAPL website homepage screenshot](lapl-screenshot-home.png) 
 
 In the heuristic evaluation, I will use Jakob Nielsen's 10 general principles for interaction design for this analysis.
+
 I will use severity ratings to aid the heuristic evaluation. 
 
 ### Severity Ratings in Heuristic Evaluation (from [Nielson Norman Group](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/))
@@ -36,20 +37,32 @@ Rating  | Importance  |
 <img src="lapl-screenshot-uh1-icontoosmall.png" alt="LAPL screenshot - heuristic 1 - low visability" width="80%">
 
 **Recommendation:**
-* Some feedback should have increased visability, such as a more drastic change of colors. Some functions should be more visible for users to find in order to make use of those functions; for example, a filter bar on the left of the screen should have more visable + (for expanding) and - (for collapsing) icons.
+* Some feedback should have increased visability, such as a more drastic change of colors.
+
+* Some functions should be more visible for users to find in order to make use of those functions; for example, a filter bar on the left of the screen should have more visable + (for expanding) and - (for collapsing) icons.
 
 
 #### Usability Heuristic #2: Match Between the System and the Real World
 >The system should speak the users' language, with words, phrases and concepts familiar to the user, rather than system-oriented terms. Follow real-world conventions, making information appear in a natural and logical order.
 
 **Rating: 2**
+* The LAPL website follows real-world conventions in general. For example, the main page has a collection of information and makes use of a menu bar to contain shortcuts to subpages. The main page also serves as an eye-catching page of the product that allows user to decide if there are contents that catches their eyes.
+
+* The website has too much information, which can be overwhelming to the user. If a user is not used to viewing a digital site with loads of information, the user can be confused. It is different from a more traditional form of media or books that it presents too much information on one page.
 
 **Recommendation:**
+* The website should consider putting less information on one page, so that every feature can be presented in a more conspicuous way. Otherwise, some good features can be neglected by the users who need them.
+
+* Consider mimicking an actual library, or the status of an actual book - this would be enhance the user experience for elder users as they would be more used to a skeuomorphic design.
+
 
 #### Usability Heuristic #3: User control and freedom
 >Users often choose system functions by mistake and will need a clearly marked "emergency exit" to leave the unwanted state without having to go through an extended dialogue. Support undo and redo.
 
 **Rating: 2**
+* Being a website that exists within a web brower, this naturally has the function of going back to a page that the user has previous browsed. 
+
+*
 
 **Recommendation:**
 
@@ -72,9 +85,14 @@ Rating  | Importance  |
 #### Usability Heuristic #6: Recognition rather than recall
 >Minimize the user's memory load by making objects, actions, and options visible. The user should not have to remember information from one part of the dialogue to another. Instructions for use of the system should be visible or easily retrievable whenever appropriate.
 
-**Rating: 2**
+**Rating: 1**
+* There are a lot of redirection of links to other websites (some difficult to tell what it specifically does). Users can easily loose track of which website they should be on. The new links are often opened in a new tab, so users may be confused about when they should go back to the previous page or search for the other tabs.
+  * For example, when the user tries to schedule a pickup from a library branch, they are redirected to https://curbside.capiratech.com/?code=laplcaus. It is difficult to remember which library this is, etc. since there is no explicit indication.
+<img src="lapl-screenshot-uh6-redirection.png" alt="LAPL screenshot - heuristic 6 - redirection of site" width="80%">
 
 **Recommendation:**
+* This is more about how ample and complicated the LAPL system is. The site can improve by making the tabs with links redirection more visible and more organized.
+
 
 #### Usability Heuristic #7: Flexibility and efficiency of use
 >Accelerators — unseen by the novice user — may often speed up the interaction for the expert user such that the system can cater to both inexperienced and experienced users. Allow users to tailor frequent actions.
@@ -87,7 +105,7 @@ Rating  | Importance  |
 #### Usability Heuristic #8: Aesthetic and minimalist design
 >Dialogues should not contain information which is irrelevant or rarely needed. Every extra unit of information in a dialogue competes with the relevant units of information and diminishes their relative visibility.
 
-**Rating: 2**
+**Rating: 1**
 
 **Recommendation:**
 
@@ -115,11 +133,17 @@ Rating  | Importance  |
 
 The Los Angeles Public Library (LAPL) is a public library system that serves residents in LA, serving the largest population among all publicly funded library systems in the United States of over 18 million residents. Holding more than 6 million volumes, the LAPL system provides books, zines, periodicals, computer access, and audiovisual materials freely to the residents. The LAPL website contains information digitally that can be accessed and viewed by the users.
 
-The LAPL website needs to be accessible and easy to understand for all users, including middle-aged women, the users we are focusing on — middle-aged women.
+The LAPL website needs to be accessible...
 
 ![LAPL website homepage screenshot](lapl-screenshot-home.png) 
+trial:
+<figure>
+<img src="lapl-screenshot-uh1-icontoosmall.png" alt="LAPL screenshot - heuristic 1 - low visability" width="50%">
+  <img src="lapl-screenshot-uh1-icontoosmall.png" alt="LAPL screenshot - heuristic 1 - low visability" width="50%">
+  </figure>
 
 In the heuristic evaluation, I will use Jakob Nielsen's 10 general principles for interaction design for this analysis.
+
 I will use severity ratings to aid the heuristic evaluation. 
 
 

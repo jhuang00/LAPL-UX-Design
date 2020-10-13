@@ -87,7 +87,7 @@ Rating  | Importance  |
 
 **Rating: 3**
 * There is lacking error prevention for the user logging in. For example, when the user tries to put more digits in the text box intended for only 4 digits (of phone number), there is no error message stopping the user. Therefore, the user may waste time on figuring out what has been wrong with out the system's warning.
-<img scr="lapl-screenshot-uh5-noerrorprevention.png" alt="LAPL screenshot - heuristic 4 - lacking of error prevention" width="80%">
+<img scr="lapl-screenshot-uh5-noerrorprevention.png" alt="LAPL screenshot - heuristic 5 - lacking of error prevention" width="80%">
 
 **Recommendation:**
 * Add error prevention to prevent users from going to the next step while inputting the wrong information and spending time figuring out their mistake.
@@ -109,36 +109,48 @@ Rating  | Importance  |
 >Accelerators — unseen by the novice user — may often speed up the interaction for the expert user such that the system can cater to both inexperienced and experienced users. Allow users to tailor frequent actions.
 
 **Rating: 2**
+* The flexibility of the LAPL website is low, and users are not able to tailor frequent actions. However, the shortcuts provided by the website browser might be sufficient for experienced users to perform many actions efficiently.
 
 **Recommendation:**
+* Consider adding flexibility or making more accelerator available to users with good browser compatibility.
 
 
 #### Usability Heuristic #8: Aesthetic and minimalist design
 >Dialogues should not contain information which is irrelevant or rarely needed. Every extra unit of information in a dialogue competes with the relevant units of information and diminishes their relative visibility.
 
-**Rating: 1**
+**Rating: 3**
+* The LAPL website provides too much information on each page that the user can easily get confused or lose their focus. This drastically diminishes the relative visibility of units of information.
+
+* The design, aesthetically, is quite old-fashioned compared to modern design trends. It does not provide a visually pleasing experience to users, which can cause fatigue.
 
 **Recommendation:**
+* It would be good to redesign the website after creating a style guide that references modern design methods. It is also important to take note of the idea of minimalist design, and redesign the website with better presentation of information.
 
 
 #### Usability Heuristic #9: Help users recognize, diagnose, and recover from errors
 >Error messages should be expressed in plain language (no codes), precisely indicate the problem, and constructively suggest a solution.
 
 **Rating: 2**
+* There are hardly any error messages displayed on the website, which is in fact not efficient. It makes the user more difficult to recover from an error. For example, when the user clicks on "search" or "filter" without typing anything in the search bar, it will still take the user to the next page. It can therefore cause confusion.
 
 **Recommendation:**
+* Set more error messages, that can help users recognize, diagnose, and recover from errors. For example, if the user try to search from the Library Catalog without inputting anything, stop them before entering the search (to avoid the uneccessary "No search results found").
 
 
 #### Usability Heuristic #10: Help and documentation
 >Even though it is better if the system can be used without documentation, it may be necessary to provide help and documentation. Any such information should be easy to search, focused on the user's task, list concrete steps to be carried out, and not be too large.
 
 **Rating: 2**
+* Help is provided through a "How Do I" page, documenting potential problems listed and organized in FAQ format. The page provides answers to those questions from "How do I get a library card?" to "How do I download e-materials?", which are very helpful to users. However, some inexperienced users could potentially still be confused because the answers are too succinct for them.
+<img src="lapl-screenshot-uh10-helpdoc.png" alt="LAPL screenshot - heuristic 10 - help and documentation page" width="80%">
 
 **Recommendation:**
 
+* To accommodate for all users, the help and documentation can be more detailed, providing step-by-step guidance to users that may need help.
 
 
 -----
+
 
 ## Analysis of APP: Los Angeles Public Library (link to download provided [here](https://www.lapl.org/app))
 

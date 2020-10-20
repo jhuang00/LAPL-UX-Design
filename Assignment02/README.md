@@ -20,19 +20,18 @@ More detailed descriptions of the tasks are in the usability test survey, includ
 
 This usability test is a pilot test, the purpose of which is to find out the user experience of the website and how to improve it. The pilot test took place online. The setting is a portable minimalistic lab where I, as the moderator, conducted the usability test at home with the participant in her home. We used Zoom, a telecommunication application with recording functions to conduct and record the session. The participant was asked to do the usability test for the LAPL website (lapl.org) with given instructions on a web browser and complete the UT survey (see next section) on her personal computer. After signing the informed consent, the participant answered some basic background questions, took a pre-test questionnaire, and then performed three tasks testing for usability. Towards the end of the session, the participant completed a post-test questionnaire. The video recording (see next section) recorded the screen with the mouse movement and captured the participant's reactions and facial expressions while completing the tasks.
 
-
+-----
 ### Usability Materials & Test Video Links
 
 The **usability materials** can be found [here](https://docs.google.com/forms/d/e/1FAIpQLSfvUDT5Am-_A0NwZDWrOSMNd_qYy7Tg1Z5Myd7dTsxWeyIXnA/viewform?usp=sf_link).
 
 The **pilot test video** can be found [here](https://drive.google.com/file/d/1GOgWDxs-6jU4_bp-OnsAIfOMeuzTvr50/view?usp=sharing).
 
-
+-----
 ### Reflection
 
-I need to pratice more to be a better moderator. There may not be enough communication
-After I ended the recording, the participant and I talked more about how did she feel using the website and doing those tasks. 
-Write a short paragraph about:
-what you learned during the pilot test, 
-what went well and what went not so well 
-how you want to improve your UT in the future
+The pilot test gave insight into the usability of the LAPL website from a user's perspective. The implications of the usability test aligned with the problems shown in the heuristic review. Namely, the LAPL website lacks an aesthetic and minimalist design, which causes uncomfortness and exhaustion for users. The participant gave the feedback of the website being 'boring' and 'old'. Moreover, the website has an excessive amount of information, which sacrifices the visability of each function. The participant in the pilot test spent a fair amount of time navigating the page to find relevant information. Also, the site might be confusing to novice users or users with limited experience browsing the web, since it frequently re-directs the users to a new webpage, or a new tab in the browser. The participant in the test was observed to be mistaken the Catalog webpage she was directed to as the main site when she attempted to go back. Overall, the usability test was very helpful to suggest potential issues and improvements of the LAPL website.
+
+The usability test went smoothly and successfully in general. The participant was able to respond to the survey and navigate the testing site with the help of instructions. Based on her behaviors and her feedback, the participant experienced some level of difficulty completing the tasks, but was able to accomplish the goals eventually. The survey gave out clear and detailed instructions which helped the process of doing the tasks. I tried my best to be unbiased during the usability test, and be a positive observer to the participant.
+Being the moderator, I thought I could do better in communicating with the participant and understanding her experiences more. Although there are areas that allowed the participant to indicate what she felt about the website, such as the level of difficulty of completing each task, it would be better to let her express her experience in her own words. It would also be better to let her explain in detail why she chosed the product adjectives as her impression of the website. The participant and I talked more about how she felt using the website and doing those tasks after I ended the recording. She expressed her frustration dealing with the complicated interface of the website, which was a feeling she did not necessarily fully show in the recorded session. In the future, I should practice more to be a better moderator. I would improve by asking more questions to the participant, attending to the participant's needs, and giving more positive feedback to create a good testing environment and gain a more thorough understanding of the user's experience with the testing site.
+

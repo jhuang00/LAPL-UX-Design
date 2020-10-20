@@ -1,7 +1,7 @@
 # Usability Testing
 ## Digital Humanities 150 Assignment 2 — Jane Huang
 
-## User Pilot Test (LAPL)
+## User Pilot Test (LAPL website)
 
 ### Introduction
 In the planning, you will have an introduction indicating the intention of UT and the methods.
@@ -19,15 +19,15 @@ You may use the text/terms provided in usability.gov and edit to make your intro
 
 ### Usability Materials & Test Video Links
 
-The *usability materials* are [here](https://docs.google.com/forms/d/e/1FAIpQLSfvUDT5Am-_A0NwZDWrOSMNd_qYy7Tg1Z5Myd7dTsxWeyIXnA/viewform?usp=sf_link)
+The **usability materials** are [here](https://docs.google.com/forms/d/e/1FAIpQLSfvUDT5Am-_A0NwZDWrOSMNd_qYy7Tg1Z5Myd7dTsxWeyIXnA/viewform?usp=sf_link)
 
-The *pilot test video* is [here](https://drive.google.com/file/d/1GOgWDxs-6jU4_bp-OnsAIfOMeuzTvr50/view?usp=sharing).
+The **pilot test video** is [here](https://drive.google.com/file/d/1GOgWDxs-6jU4_bp-OnsAIfOMeuzTvr50/view?usp=sharing).
 
 <!-- blank line -->
 <figure class="video_container">
   <iframe src="https://drive.google.com/file/d/1GOgWDxs-6jU4_bp-OnsAIfOMeuzTvr50/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
-<!-- blank line →>
+<!-- blank line -->
 
 
 ### Reflection

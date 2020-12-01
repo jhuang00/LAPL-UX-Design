@@ -17,9 +17,9 @@ The Los Angeles Public Library Application has its main feature being the search
 The purpose of this high-fidelity prototyping is to visualize the information and interactive aspects of this project and to put them into screens of real sizes. This is not only a continuation from the low-fidelity prototypes, but also a realization of the concepts of this project and a design process of the application. The high-fidelity prototype show screen designs that incorporates graphical components, color schemes, and takes into account accessiblity concerns and friendly user-interface design, etc. Also, the prototypes include an interactive component, which takes into consideration the interactive flow that a user would experience.
 
 The tasks the prototype demonstrates are:
-* Searching Library Catalog directly: the user can go to Library Catalog, type key words in the search bar, go to results page, select an item, and request an item (place a hold on their library account).
-* Find an item using the Featured Search and Smart Recommendation functions: the user can go to Library Catalog, go into Featured Search, select options they are potentially interested in, get results, see Smart Recommendation section, find recommended items, select an item, and request an item.
-* Using help documentation to figure out how to use Advanced Search to search for an item: the user can go to Help (from any page), look at documentation for how to use Advanced Search, go to Advanced Search, type key words in the search bar and filter results, go to results page, select an item, and request an item.
+* *Searching Library Catalog directly*: the user can go to Library Catalog, type key words in the search bar, go to results page, select an item, and request an item (place a hold on their library account).
+* *Find an item using the Featured Search and Smart Recommendation functions*: the user can go to Library Catalog, go into Featured Search, select options they are potentially interested in, get results, see Smart Recommendation section, find recommended items, select an item, and request an item.
+* *Using help documentation to figure out how to use Advanced Search to search for an item*: the user can go to Help (from any page), look at documentation for how to use Advanced Search, go to Advanced Search, type key words in the search bar and filter results, go to results page, select an item, and request an item.
 
 
 ### Prototype Design
@@ -31,14 +31,15 @@ For the prototype, I used the tool Figma to design all the screens for my APP.
 
 See complete prototype [here](https://www.figma.com/proto/5KcVoq7lYpXk0fWosbrV1H/DH150-HiFiPrototype-Interaction?node-id=53%3A2&scaling=scale-down).
 
-* Color Scheme
-For the color scheme, I tried out multiple options. I referred to the original version of the LAPL APP, which uses #53B3C8 (greenish-blue) as its main color. It also uses a blue color as a complementary color. I do like the use of the greenish-blue, as it is neither borning nor frivolous. However, the use of the blue color does not complement the design quite well, and these two colors do not have enough visual contrast. I also referred to the LAPL website, which uses orange and dark blue as its color scheme. The dark blue gives a slightly monotonous and depressing impression, but the orange suits the tone or style of a digital library tool. I alter the greenish-blue (#59BFD5) slightly to make it a bit more attractive; orange (#ED9819) complements the color quite well. The two colors creates contrast, which is a more visually attractive pair to the users, and they allow the interface to have more variability and the functions to have better visability. Also, the color scheme is also dull or too familiar to the users, which allows them to remember the application better.
+**Color Scheme**
 
 <img src="color-scheme.png" alt="LAPL APP Color Scheme" width="30%">
 
-* Text Font
-The APP uses two text fonts: Arvo and Open Sans.  
+For the color scheme, I tried out multiple options. I referred to the original version of the LAPL APP, which uses #53B3C8 (greenish-blue) as its main color. It also uses a blue color as a complementary color. I do like the use of the greenish-blue, as it is neither borning nor frivolous. However, the use of the blue color does not complement the design quite well, and these two colors do not have enough visual contrast. I also referred to the LAPL website, which uses orange and dark blue as its color scheme. The dark blue gives a slightly monotonous and depressing impression, but the orange suits the tone or style of a digital library tool. I alter the greenish-blue (#59BFD5) slightly to make it a bit more attractive; orange (#ED9819) complements the color quite well. The two colors creates contrast, which is a more visually attractive pair to the users, and they allow the interface to have more variability and the functions to have better visability. Also, the color scheme is also dull or too familiar to the users, which allows them to remember the application better.
 
+**Text Font**
+
+The APP uses two text fonts: Open Sans and Arvo. Open Sans is a sans-serif font, which is used for the majority of texts in the prototype of the application, especially for smaller or big chunks of text, since it has good readability. Arvo is a serif font, which are used for some texts, especially titles; it is suited with the subject of library, giving a neat and professional impression. A combination of a sans-serif and a serif font offers a sense of organization, and they can distinguish different information better, which increases user experience.
 
 
 #### Iterations
@@ -66,8 +67,8 @@ Before  | After |
 For the "Advanced Search" filtering page, I thought for a good while how to make the interface minimalist, clear, and good-looking. I have several trials, and I first ended up with a segmented control with 2 buttons and a pull-down menu. It serves the purpose of selecting what the user wants, but I decided to see if I can make the design better. First, for the segmented control, I tried another design that is less flat, which is not only more aligned with the current design trend, but also gives the user a more intuitive sense to manipulate the buttons. Moreover, I found that my initial design lack enough visability, so I change the colors. The design of a white button with a greenish-blue background looks nice; however, the issue is that as one of the main colors of this APP, it can potentially be confusing to the user when the greenish-blue when it is not used to highlight some component but used as a background color. Therefore, the design is not good enough. I changed the greenish-blue to be the button color, which makes more sense. Also, I make sure the text color is black for accessibility concerns. Furthermore, I thought I could improve the pull-down menu by changing it to a picker. This is because it increases efficiency — the pull-down menu would require clicking, scrolling, and clicking; while the picker would essentially only require scrolling (to get the item at the center). Therefore, the design makes the page clearer and the action of the users more succint.
 
 Iteration 1  | Iteration 2 |
-![Advanced Search Iteration 1](advanced-search-version1.png)  | ![Advanced Search Iteration 2](advanced-search-version2.png)  |
 :---:  | :---:  |
+![Advanced Search Iteration 1](advanced-search-version1.png)  | ![Advanced Search Iteration 2](advanced-search-version2.png)  |
 Iteration 3  | Iteration 4 |
 ![Advanced Search Iteration 3](advanced-search-version3.png)  | ![Advanced Search Iteration 4](advanced-search-version4.png)  |
 
@@ -102,7 +103,7 @@ As shown above, the color #59BFD5 (greenish-blue) and #ED9819 (orange) satisfy t
 
 ### Interaction
 
-* **An Overview of the Prototype Design**:
+* **An Overview of the Interactive Prototype**:
 ![interactive-prototype-overview](interactive-prototype-overview.png)
 
 The interactive prototype for the LAPL APP can be accessed [here](https://www.figma.com/proto/5KcVoq7lYpXk0fWosbrV1H/DH150-HiFiPrototype-Interaction?node-id=53%3A2&scaling=scale-down).
@@ -114,10 +115,13 @@ After being introduced to the project, the persona, and the tasks, the tester is
 
 Q: Do you think the users can understand what this screen (feedback) is about?
 > Yes.
+
 Q: Do you think the users can recognize this (interaction point/ information)?
 > Yes.
+
 Q: Do you think the users can feel that the progress is being made toward what they want to achieve?
 > Yes.
+
 Q: Is there anything inconsistent, missing, or confusing?
 > No. User is able to follow the process.
 
@@ -126,7 +130,7 @@ Overall, the cognitive walkthrough went smoothly, and the tester was able to suc
 
 ### Reflection
 
-The process of creating the high-fidelity prototypes was time-consuming but rewarding for me. I put in quite a lot of time into creating the prototype, and it is great to see the project come into shape and have testers playing with prototype outcome. I have learned that all the work done before creating the high-fidelity prototype build great and crucial foundation. While I was working on the hi-fi prototypes, the prototypes went out naturally because there were enough planning and research done before the process. Even though I was constantly adjusting the design, it was more about the details and the aesthetics, and less about the big structure since it was laid out with the wireframes. Moreover, when creating the hi-fi prototypes, I found that I was able to achieve most things I wished to achieve. It was interesting for me to explore and make some screens scrollable while keeping some components fixed on the screen. However, there are also some ideas that I could not fully build into my prototype, perhaps due to the prototyping tool and my familiarity with it. For example, a feature which I hoped to but was unable to do is letting a message show only once for the user, after which they could specify whether they wish to see the message or not (by checking or unchecking a checkbox). These features would make the prototype even more realistic, but the hi-fi prototype works well without them, and I believe these can be better achieved in a design process in which development is also involved.
+The process of creating the high-fidelity prototypes was time-consuming but rewarding for me. I put in quite a lot of time and effort into creating the prototype, and it is great to see the project come into shape and have testers playing with prototype outcome. I have learned that all the work done before creating the high-fidelity prototype build great and crucial foundation. While I was working on the hi-fi prototypes, the prototypes went out naturally because there were enough planning and research done before the process. Even though I was constantly adjusting the design, it was more about the details and the aesthetics, and less about the big structure since it was laid out with the wireframes. Moreover, when creating the hi-fi prototypes, I found that I was able to achieve most things I wished to achieve. It was interesting for me to explore and make some screens scrollable while keeping some components fixed on the screen. However, there are also some ideas that I could not fully build into my prototype, perhaps due to the prototyping tool and my familiarity with it. For example, a feature which I hoped to but was unable to do is letting a message show only once for the user, after which they could specify whether they wish to see the message or not (by checking or unchecking a checkbox). These features would make the prototype even more realistic, but the hi-fi prototype works well without them, and I believe these can be better achieved in a design process in which development is also involved.
 
-After designing the interactive prototype, and based on the feedback from the prototype testing, I would like to design the main page differently. The design of the main page currently seems a bit overwhelming in terms of the color, and although it serves the purpose of presenting the functionalities of the APP, the design is not very aesthetically pleasing. I have spent a lot of time trying different designs of the main page, but I still think it is not very satisfying.
+After designing the interactive prototype, and based on the feedback from the prototype testing, I would like to design the main page differently. The design of the main page currently seems a bit overwhelming in terms of the color, and although it serves the purpose of presenting the functionalities of the APP, the design is not very aesthetically pleasing. I have spent a lot of time trying different designs of the main page, but I still think it is not very satisfying. Moreover, I would improve the details of the design, such as polishing the texts, especially paragraphs of text (e.g. introduction of Featured Search).
 

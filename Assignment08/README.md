@@ -46,19 +46,19 @@ Features that the design will focus on are:
 
 #### Marian Lewis' Persona
 
-![Marian Lewis' Persona](../persona-marian-lewis.png) 
+![Marian Lewis' Persona](https://github.com/jhuang00/DH150-JH/blob/main/Assignment05/persona-marian-lewis.png) 
 
 #### Marian Lewis' Empathy Map
 
-![Marian Lewis' Empathy Map](../empathy-map-marian-lewis.png) 
+![Marian Lewis' Empathy Map](https://github.com/jhuang00/DH150-JH/blob/main/Assignment05/empathy-map-marian-lewis.png) 
 
 #### Linda Fang's Persona
 
-![Linda Fang's Persona](../persona-linda-fang.png) 
+![Linda Fang's Persona](https://github.com/jhuang00/DH150-JH/blob/main/Assignment05/persona-linda-fang.png) 
 
 #### Linda Fang's Empathy Map
 
-![Linda Fang's Empathy Map](../empathy-map-linda-fang.png) 
+![Linda Fang's Empathy Map](https://github.com/jhuang00/DH150-JH/blob/main/Assignment05/empathy-map-linda-fang.png) 
 
 
 #### Scenarios and Journey Maps
@@ -71,7 +71,7 @@ On her phone, Marian goes to ‘Catalog’ and enter in the search bar ‘Great 
 
 #### Marian Lewis' Journey Map
 
-![Marian Lewis' Journey Map](../journey-map-marian-lewis.png) 
+![Marian Lewis' Journey Map](https://github.com/jhuang00/DH150-JH/blob/main/Assignment05/journey-map-marian-lewis.png) 
 
 #### Linda Fang's Scenario
 
@@ -93,7 +93,7 @@ See Wireframe & Wireflow Testing [here](https://drive.google.com/file/d/15Ddxf99
 
 ### High-fidelity prototype
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F5KcVoq7lYpXk0fWosbrV1H%2FDH150-HiFiPrototype-Interaction%3Fnode-id%3D42%253A185%26scaling%3Dscale-down" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F5KcVoq7lYpXk0fWosbrV1H%2FDH150-HiFiPrototype-Interaction%3Fnode-id%3D42%253A185%26scaling%3Dcontain" allowfullscreen></iframe>
 
 
 ### Evaluation and revision history
@@ -106,7 +106,7 @@ For a screen for "Featured Search," I first used black fonts with some variation
 
 Before  | After |
 :---:  | :---:  |
-![featured-search-interface-before-change](featured-search-interface-before-change.png)  | ![featured-search-interface-after-change](featured-search-interface-after-change.png)  |
+![featured-search-interface-before-change](https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/featured-search-interface-before-change.png)  | ![featured-search-interface-after-change](https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/featured-search-interface-after-change.png)  |
 
 * Design for good interactions — Attending to low between pages
 
@@ -114,7 +114,7 @@ I thought about having a pop-up notification-like introduction when the user ent
 
 Before  | After |
 :---:  | :---:  |
-![featured-search-info-interface-before-change](featured-search-info-interface-before-change.png)  | ![featured-search-info-interface-after-change](featured-search-info-interface-after-change.png)  |
+![featured-search-info-interface-before-change](https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/featured-search-info-interface-before-change.png)  | ![featured-search-info-interface-after-change](https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/featured-search-info-interface-after-change.png)  |
 
 * Design with clear and succint elements — Making user experience efficient
 
@@ -122,9 +122,9 @@ For the "Advanced Search" filtering page, I thought for a good while how to make
 
 Iteration 1  | Iteration 2 |
 :---:  | :---:  |
-![Advanced Search Iteration 1](advanced-search-version1.png)  | ![Advanced Search Iteration 2](advanced-search-version2.png)  |
+![Advanced Search Iteration 1](https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/advanced-search-version1.png)  | ![Advanced Search Iteration 2](https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/advanced-search-version2.png)  |
 Iteration 3  | Iteration 4 |
-![Advanced Search Iteration 3](advanced-search-version3.png)  | ![Advanced Search Iteration 4](advanced-search-version4.png)  |
+![Advanced Search Iteration 3](https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/advanced-search-version3.png)  | ![Advanced Search Iteration 4](https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/advanced-search-version4.png)  |
 
 See more [here](https://github.com/jhuang00/DH150-JH/edit/main/Assignment07/README.md).
 

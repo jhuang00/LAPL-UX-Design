@@ -94,6 +94,8 @@ See Wireframe & Wireflow Testing [here](https://drive.google.com/file/d/15Ddxf99
 ### High-fidelity prototype
 
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F5KcVoq7lYpXk0fWosbrV1H%2FDH150-HiFiPrototype-Interaction%3Fnode-id%3D42%253A185%26scaling%3Dcontain" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F5KcVoq7lYpXk0fWosbrV1H%2FDH150-HiFiPrototype-Interaction%3Fnode-id%3D42%253A185%26scaling%3Dscale-down" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F5KcVoq7lYpXk0fWosbrV1H%2FDH150-HiFiPrototype-Interaction%3Fnode-id%3D42%253A185%26scaling%3Dmin-zoom" allowfullscreen></iframe>
 
 
 ### Evaluation and revision history
@@ -122,7 +124,7 @@ For the "Advanced Search" filtering page, I thought for a good while how to make
 
 Iteration 1  | Iteration 2 |
 :---:  | :---:  |
-![Advanced Search Iteration 1](https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/advanced-search-version1.png)  | ![Advanced Search Iteration 2](https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/advanced-search-version2.png)  |
+![Advanced Search Iteration 1](https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/advanced-search-version1.png?raw=true)  | ![Advanced Search Iteration 2](https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/advanced-search-version2.png)  |
 Iteration 3  | Iteration 4 |
 ![Advanced Search Iteration 3](https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/advanced-search-version3.png)  | ![Advanced Search Iteration 4](https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/advanced-search-version4.png)  |
 

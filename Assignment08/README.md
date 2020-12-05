@@ -93,7 +93,7 @@ See Wireframe & Wireflow Testing [here](https://drive.google.com/file/d/15Ddxf99
 
 ### High-fidelity prototype
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="1280" height="720" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F5KcVoq7lYpXk0fWosbrV1H%2FDH150-HiFiPrototype-Interaction%3Fnode-id%3D42%253A185%26scaling%3Dcontain" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="960" height="540" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F5KcVoq7lYpXk0fWosbrV1H%2FDH150-HiFiPrototype-Interaction%3Fnode-id%3D42%253A185%26scaling%3Dcontain" allowfullscreen></iframe>
 
 
 ### Evaluation and revision history
@@ -106,6 +106,8 @@ For a screen for "Featured Search," I first used black fonts with some variation
 
 Before  | After |
 :---:  | :---:  |
+<img src="https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/featured-search-interface-before-change.png?raw=true" alt="Feature Search Interface Design: Before" width="375px">  | <img src="https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/featured-search-interface-after-change.png?raw=true" alt="Feature Search Interface Design: After" width="375px">  |
+
 ![featured-search-interface-before-change](https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/featured-search-interface-before-change.png?raw=true)  | ![featured-search-interface-after-change](https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/featured-search-interface-after-change.png?raw=true)  |
 
 * Design for good interactions — Attending to low between pages

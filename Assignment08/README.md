@@ -106,9 +106,7 @@ For a screen for "Featured Search," I first used black fonts with some variation
 
 Before  | After |
 :---:  | :---:  |
-<img src="https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/featured-search-interface-before-change.png?raw=true" alt="Feature Search Interface Design: Before" width="375px">  | <img src="https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/featured-search-interface-after-change.png?raw=true" alt="Feature Search Interface Design: After" width="375px">  |
-
-![featured-search-interface-before-change](https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/featured-search-interface-before-change.png?raw=true)  | ![featured-search-interface-after-change](https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/featured-search-interface-after-change.png?raw=true)  |
+<img src="https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/featured-search-interface-before-change.png?raw=true" alt="Feature Search Interface Design: Before" width="250px">  | <img src="https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/featured-search-interface-after-change.png?raw=true" alt="Feature Search Interface Design: After" width="250px">  |
 
 * Design for good interactions — Attending to low between pages
 
@@ -116,7 +114,7 @@ I thought about having a pop-up notification-like introduction when the user ent
 
 Before  | After |
 :---:  | :---:  |
-![featured-search-info-interface-before-change](https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/featured-search-info-interface-before-change.png?raw=true)  | ![featured-search-info-interface-after-change](https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/featured-search-info-interface-after-change.png?raw=true)  |
+<img src="https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/featured-search-info-interface-before-change.png?raw=true" alt="Feature Search Introduction Interface Design: Before" width="250px">  | <img src="https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/featured-search-info-interface-after-change.png?raw=true" alt="Feature Search Introduction Interface Design: After" width="250px">  |
 
 * Design with clear and succint elements — Making user experience efficient
 
@@ -124,9 +122,15 @@ For the "Advanced Search" filtering page, I thought for a good while how to make
 
 Iteration 1  | Iteration 2 |
 :---:  | :---:  |
-![Advanced Search Iteration 1](https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/advanced-search-version1.png?raw=true)  | ![Advanced Search Iteration 2](https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/advanced-search-version2.png?raw=true)  |
+<img src="https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/advanced-search-version1.png?raw=true" alt="Advanced Search Interface Design: Iteration 1" width="250px">  | <img src="https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/advanced-search-version2.png?raw=true" alt="Advanced Search Interface Design: Iteration 2" width="250px">  |
 Iteration 3  | Iteration 4 |
-![Advanced Search Iteration 3](https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/advanced-search-version3.png?raw=true)  | ![Advanced Search Iteration 4](https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/advanced-search-version4.png?raw=true)  |
+:---:  | :---:  |
+<img src="https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/advanced-search-version3.png?raw=true" alt="Advanced Search Interface Design: Iteration 3" width="250px">  | <img src="https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/advanced-search-version4.png?raw=true" alt="Advanced Search Interface Design: Iteration 4" width="250px">  |
+
+
+Iteration 1  | Iteration 2 |  Iteration 3  | Iteration 4 |
+:---:  | :---:  |
+<img src="https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/advanced-search-version1.png?raw=true" alt="Advanced Search Interface Design: Iteration 1" width="250px">  | <img src="https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/advanced-search-version2.png?raw=true" alt="Advanced Search Interface Design: Iteration 2" width="250px">  | <img src="https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/advanced-search-version3.png?raw=true" alt="Advanced Search Interface Design: Iteration 3" width="250px">  | <img src="https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/advanced-search-version4.png?raw=true" alt="Advanced Search Interface Design: Iteration 4" width="250px">  |
 
 See more [here](https://github.com/jhuang00/DH150-JH/edit/main/Assignment07/README.md).
 

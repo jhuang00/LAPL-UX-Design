@@ -1,5 +1,5 @@
-# Seeking Happiness at Home — Redesigning the Los Angeles Public Library Application
-### Digital Humanities 150, by Jane Huang
+# Happiness at Home — Redesigning the Los Angeles Public Library Application
+## Digital Humanities 150, by Jane Huang
 
 ### Introduction
 

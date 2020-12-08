@@ -59,7 +59,7 @@ I started doing preparations for my design through UX storytelling, creating per
 
 Read more about Marian and Linda's scenarios [here](https://github.com/jhuang00/DH150-JH/blob/main/Assignment05/README.md).
 
-Based on the persona and storytelling, I found out the users' common main task is to search for and borrow items from the library catalog. Therefore, features that the design would focus on are: the search page, results recommendation, and help documentation.
+Based on the persona and storytelling, I found out the users' common main task is to search for and borrow items from the library catalog. Therefore, features that the design would focus on are: item search, results recommendation, item request, and help documentation.
 
 
 ### Low-fidelity prototype
@@ -84,7 +84,7 @@ Wireframe & Wireflow  | Wireframe & Wireflow Testing  |
 ![low-fi-prototype-2](https://github.com/jhuang00/DH150-JH/blob/main/Assignment08/low-fi-prototype-2.jpg?raw=true)  | ![low-fi-prototype-test-2](https://github.com/jhuang00/DH150-JH/blob/main/Assignment08/low-fi-prototype-test-2.jpg?raw=true)  |
 ![low-fi-prototype-3](https://github.com/jhuang00/DH150-JH/blob/main/Assignment08/low-fi-prototype-3.jpg?raw=true)  | ![low-fi-prototype-test-3](https://github.com/jhuang00/DH150-JH/blob/main/Assignment08/low-fi-prototype-test-3.jpg?raw=true)  |
 
-See more [here](https://github.com/jhuang00/DH150-JH/blob/main/Assignment06/README.md).
+See documentation of the low-fidelity prototyping [here](https://github.com/jhuang00/DH150-JH/blob/main/Assignment06/README.md).
 
 
 ### High-fidelity prototype

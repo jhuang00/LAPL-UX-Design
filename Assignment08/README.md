@@ -119,6 +119,11 @@ Iteration 1  | Iteration 2 |  Iteration 3  | Iteration 4 |
 See the evaluation and the design process more [here](https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/README.md).
 
 
+### Pitch Video
+
+<iframe src="https://drive.google.com/file/d/1HYpnsasAK7vel34s5IhxibJctLr3F9Nf/preview" width="640" height="480"></iframe>
+
+
 ### Final Remarks
 
 Going through each step in the project and realizing the product was a rewarding experience. I have learned that all the work done before creating the high-fidelity prototype build great and crucial foundation. While I was working on the hi-fi prototypes, the prototypes went out naturally because there were enough planning and research done before the process. Even though I was constantly adjusting the design, it was more about the details and the aesthetics, and less about the big structure since it was laid out with the wireframes. 

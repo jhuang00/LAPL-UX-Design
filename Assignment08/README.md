@@ -121,7 +121,7 @@ See the evaluation and the design process more [here](https://github.com/jhuang0
 
 ### Pitch Video
 
-<iframe src="https://drive.google.com/file/d/1HYpnsasAK7vel34s5IhxibJctLr3F9Nf/preview" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/file/d/1HYpnsasAK7vel34s5IhxibJctLr3F9Nf/preview" width="700" height="480"></iframe>
 
 
 ### Final Remarks

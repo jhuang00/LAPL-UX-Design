@@ -1,5 +1,4 @@
 # Happiness at Home — Redesigning the Los Angeles Public Library Application
-## Digital Humanities 150, by Jane Huang
 
 ### Introduction
 
@@ -117,11 +116,6 @@ Iteration 1  | Iteration 2 |  Iteration 3  | Iteration 4 |
 <img src="https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/advanced-search-version1.png?raw=true" alt="Advanced Search Interface Design: Iteration 1" width="250px">  | <img src="https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/advanced-search-version2.png?raw=true" alt="Advanced Search Interface Design: Iteration 2" width="250px">  | <img src="https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/advanced-search-version3.png?raw=true" alt="Advanced Search Interface Design: Iteration 3" width="250px">  | <img src="https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/advanced-search-version4.png?raw=true" alt="Advanced Search Interface Design: Iteration 4" width="250px">  |
 
 See the evaluation and the design process more [here](https://github.com/jhuang00/DH150-JH/blob/main/Assignment07/README.md).
-
-
-### Pitch Video
-
-<iframe src="https://drive.google.com/file/d/1HYpnsasAK7vel34s5IhxibJctLr3F9Nf/preview" width="700" height="480"></iframe>
 
 
 ### Final Remarks

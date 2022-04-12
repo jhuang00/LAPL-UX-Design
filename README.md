@@ -1,5 +1,4 @@
 # Heuristic Evaluation
-## Digital Humanities 150 Assignment 1 — Jane Huang
 
 ## Feeding the Mind
 
